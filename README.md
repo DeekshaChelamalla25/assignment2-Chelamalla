@@ -12,7 +12,6 @@ in Hyderabad
 2. Go along Mir Alam Mandi Road for 2.9 Km
 3. And then Falaknuma Road for 13.3 Km
 4. Drive to Shamshabad Road
----
 ###### Unordered List
 - Charminar
 - Chowmahalla Palace
