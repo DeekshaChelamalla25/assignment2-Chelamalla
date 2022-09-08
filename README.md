@@ -16,5 +16,5 @@ in Hyderabad
 - Charminar
 - Chowmahalla Palace
 - Mecca Masjid
-- Purani Haveli
+- Purani Haveli <br>
 https://github.com/DeekshaChelamalla25/assignment2-Chelamalla/blob/main/P1.jpeg
