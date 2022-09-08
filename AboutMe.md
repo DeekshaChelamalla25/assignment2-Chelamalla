@@ -21,10 +21,10 @@ The below table gives the information of places and amount. <br>
 
 ---
 #### Code Fencing
-
-> <rect class="checker" x="0" width="100" height="100" y="0"></rect>
+```
+ <rect class="checker" x="0" width="100" height="100" y="0"></rect>
     <rect class="checker" x="100" width="100" height="100" y="100"></rect>
-
+```
 
 https://css-tricks.com/snippets/svg/svg-patterns/
 
