@@ -19,3 +19,16 @@ The below table gives the information of places and amount. <br>
 >Whatever we believe about ourselves and our ability comes true for us.<br>
 *-Susan L. Taylor*
 
+---
+#### Code Fencing
+
+> <rect class="checker" x="0" width="100" height="100" y="0"></rect>
+    <rect class="checker" x="100" width="100" height="100" y="100"></rect>
+
+
+https://css-tricks.com/snippets/svg/svg-patterns/
+
+> How to do a circle in svg 
+
+https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_circle
+
