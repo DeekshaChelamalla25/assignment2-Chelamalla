@@ -14,8 +14,8 @@ The below table gives the information of places and amount. <br>
 
 ---
 #### Quotes
->Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.
-*Pele, Brazilian*
->Whatever we believe about ourselves and our ability comes true for us.
-*Susan L. Taylor*
+>Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.<br>
+*-Pele, Brazilian* <br>
+>Whatever we believe about ourselves and our ability comes true for us.<br>
+*-Susan L. Taylor*
 
